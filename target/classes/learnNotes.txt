@@ -1,0 +1,11 @@
+creating hashtag
+
+
+//    def nnHash(tag: String) = tag.hashCode & 0x7FFFFF
+//
+//    val categories = combinedDate.map(l => l.Category).distinct().map(tag =>(tag, nnHash(tag)))
+//
+//    categories.foreach(l => {
+//
+//      println("Category: " + l._1 + " value: " + l._2)
+//    })
